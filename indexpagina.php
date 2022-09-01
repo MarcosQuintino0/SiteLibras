@@ -120,6 +120,7 @@
 							</section>
 					</div>
 			</div>
+			<p>Teste git</p>
 			
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
