@@ -1,0 +1,22 @@
+html,body {
+  font-family: 'Open Sans', serif;
+  font-size: 13px;
+  font-weight: 300;
+}
+.hero.is-success {
+  background: #ebebeb;
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+input {
+  background: #2E2E2E;
+  margin-bottom: 2px;
+}
+p {
+  font-weight: 700;
+}
+form h3{
+  text-align: center;
+}
